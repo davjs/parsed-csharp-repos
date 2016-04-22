@@ -1,0 +1,13 @@
+5c3b0178277194ca76b2c958506bb89419966642
+@Redis:
+@Redis\RedisConnection:
+Redis\RedisMessage
+Redis\Resources
+@Redis\RedisMessage:
+Redis\Resources
+@Redis\RedisMessageBus:
+Redis\RedisMessage
+Redis\Resources
+@Redis\RedisMessageBus\State:
+@Redis\Resources:
+@SignalR:

@@ -1,0 +1,11 @@
+f775e7d2d54dedd25e6f08d0d69c50165829c96c
+@Samples:
+@Samples\CommonClient:
+@Samples\TextBoxWriter:
+@Samples:
+@Samples\App:
+@Samples\MainPage:
+Samples\CommonClient
+Samples\TextBoxWriter
+@Samples\Program:
+Samples\App

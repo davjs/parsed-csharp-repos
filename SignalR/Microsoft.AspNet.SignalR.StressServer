@@ -1,0 +1,13 @@
+23241e3de31462c70de83627a2bc10700f6c3c80
+@Connections:
+@Connections\StressConnection:
+@Hubs:
+@Hubs\ConcurrentCallsHub:
+Hubs\DataClass
+@Hubs\DataClass:
+@Hubs\HubWithGroups:
+@Hubs\OnConnectedOnDisconnectedHub:
+@Hubs\SimpleEchoHub:
+@Samples:
+@Samples\RawConnection:
+@Samples\RawConnection\Message:
