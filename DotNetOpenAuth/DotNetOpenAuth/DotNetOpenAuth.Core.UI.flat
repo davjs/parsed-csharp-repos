@@ -1,0 +1,8 @@
+39a426f4991b27656e8cb53fba2e1b32d8c832b2
+@DotNetOpenAuth:
+@DotNetOpenAuth\ComponentModel:
+@DotNetOpenAuth\ComponentModel\ClaimTypeSuggestions:
+DotNetOpenAuth\ComponentModel\SuggestedStringsConverter
+@DotNetOpenAuth\ComponentModel\ConverterBase<T>:
+@DotNetOpenAuth\ComponentModel\SuggestedStringsConverter:
+DotNetOpenAuth\ComponentModel\ConverterBase<T>

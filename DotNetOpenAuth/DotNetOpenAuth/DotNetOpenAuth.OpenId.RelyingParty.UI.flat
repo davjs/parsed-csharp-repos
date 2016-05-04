@@ -1,0 +1,9 @@
+0383cc721d4ba28d18b3d61d05eb8bae49d14471
+@DotNetOpenAuth:
+@DotNetOpenAuth\ComponentModel:
+@DotNetOpenAuth\Mvc:
+@DotNetOpenAuth\Mvc\OpenIdAjaxOptions:
+@DotNetOpenAuth\Mvc\OpenIdHelper:
+DotNetOpenAuth\Mvc\OpenIdAjaxOptions
+@DotNetOpenAuth\OpenId:
+@DotNetOpenAuth\OpenId\RelyingParty:
