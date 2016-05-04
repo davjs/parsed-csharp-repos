@@ -1,4 +1,4 @@
-4c5808d7b897b7387efbe23ec764df35560ee2b7
+baa64aa5a473696cf8d5467fa00b052273d113c3
 @Microsoft:
 @Microsoft\Xna:
 @Microsoft\Xna\Framework:
@@ -952,9 +952,7 @@ MonoGame\Framework\Content\Pipeline\Builder\PipelineManager
 @TwoMGFX\ConstantBufferData:
 TwoMGFX\EffectObject
 @TwoMGFX\EffectObject:
-TwoMGFX\ConstantBufferData
-TwoMGFX\Options
-TwoMGFX\ShaderData
+TwoMGFX\ShaderInfo
 @TwoMGFX\EffectObject\d3dx_parameter:
 @TwoMGFX\EffectObject\d3dx_pass:
 @TwoMGFX\EffectObject\d3dx_sampler:
@@ -1002,9 +1000,7 @@ TwoMGFX\Token
 TwoMGFX\Token
 @TwoMGFX\ShaderCompilerException:
 @TwoMGFX\ShaderData:
-TwoMGFX\ConstantBufferData
 TwoMGFX\MojoShader
-TwoMGFX\SamplerStateInfo
 @TwoMGFX\ShaderInfo:
 TwoMGFX\Options
 TwoMGFX\ParseError

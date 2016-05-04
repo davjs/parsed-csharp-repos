@@ -1,4 +1,4 @@
-2f69b448297c8b872773e5d2cd405cbe2a734b64
+1f78ab8a56451c834c0f118e801e8bf043f844ca
 @Microsoft:
 @Microsoft\Xna:
 @Microsoft\Xna\Framework:
@@ -39,7 +39,7 @@ Microsoft\Xna\Framework\Graphics\BlendState
 @MonoGame\Utilities\Hash:
 @TwoMGFX:
 @TwoMGFX\ConstantBufferData:
-TwoMGFX\Options
+TwoMGFX\EffectObject
 @TwoMGFX\EffectObject:
 MonoGame\Utilities\Hash
 TwoMGFX\ConstantBufferData
@@ -104,6 +104,7 @@ TwoMGFX\Token
 @TwoMGFX\ShaderCompilerException:
 @TwoMGFX\ShaderData:
 TwoMGFX\ConstantBufferData
+TwoMGFX\MojoShader
 TwoMGFX\SamplerStateInfo
 @TwoMGFX\ShaderInfo:
 TwoMGFX\Options

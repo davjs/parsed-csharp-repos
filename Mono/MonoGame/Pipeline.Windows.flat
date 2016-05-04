@@ -1,4 +1,4 @@
-8c0a308df13011b9950cf49389dadca3a02054eb
+abe4ebd215558de23517369f0323f0d18f9ac035
 @FolderSelect:
 @FolderSelect\FolderSelectDialog:
 FolderSelect\Reflector
@@ -57,14 +57,8 @@ MonoGame\Tools\Pipeline\ContentItemTemplate
 @MonoGame\Tools\Pipeline\OpaqueDataDictionaryElementPropertyDescriptor:
 @MonoGame\Tools\Pipeline\OutputParser:
 @MonoGame\Tools\Pipeline\PipelineController:
-MGCB\MGBuildParser
 MonoGame\Tools\Pipeline\ContentItem
-MonoGame\Tools\Pipeline\ContentItemTemplate
-MonoGame\Tools\Pipeline\PipelineProject
 MonoGame\Tools\Pipeline\PipelineProjectParser
-MonoGame\Tools\Pipeline\PipelineSettings
-MonoGame\Tools\Pipeline\PipelineTypes
-MonoGame\Tools\Pipeline\Selection
 @MonoGame\Tools\Pipeline\PipelineController\ActionStack:
 @MonoGame\Tools\Pipeline\PipelineController\ExcludeAction:
 @MonoGame\Tools\Pipeline\PipelineController\FileWatcher:

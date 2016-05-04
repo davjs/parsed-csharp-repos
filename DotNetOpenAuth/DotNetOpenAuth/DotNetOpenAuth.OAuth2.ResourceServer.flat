@@ -1,5 +1,13 @@
-b8493ebf2a14386ed195559326f40d29241fd636
+7857b9ef77a9ec725921da1c5a4e44f27c839350
 @DotNetOpenAuth:
 @DotNetOpenAuth\Configuration:
+@DotNetOpenAuth\Configuration\OAuth2ResourceServerSection:
 @DotNetOpenAuth\OAuth2:
 @DotNetOpenAuth\OAuth2\ChannelElements:
+@DotNetOpenAuth\OAuth2\ChannelElements\OAuth2ResourceServerChannel:
+@DotNetOpenAuth\OAuth2\ResourceServer:
+DotNetOpenAuth\OAuth2\ChannelElements\OAuth2ResourceServerChannel
+DotNetOpenAuth\OAuth2\ResourceServerStrings
+@DotNetOpenAuth\OAuth2\ResourceServerStrings:
+@DotNetOpenAuth\OAuth2\StandardAccessTokenAnalyzer:
+DotNetOpenAuth\OAuth2\ResourceServerStrings

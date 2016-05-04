@@ -1,3 +1,5 @@
-8531e07d3c55bb4a098c88c38d9b2c695b7ca430
+9d0a9caa7430aae93670716d44ce5c3fcb280dc2
 @DotNetOpenAuth:
 @DotNetOpenAuth\OAuth2:
+@DotNetOpenAuth\OAuth2\ClientAuthorizationCompleteEventArgs:
+@DotNetOpenAuth\OAuth2\ClientAuthorizationView:

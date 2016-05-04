@@ -1,4 +1,6 @@
-dab10438a0312d4cee569ba2a69bcb7486d01fd9
+b5af8e776341309c4722b356d3ef987974d648a8
 @DotNetOpenAuth:
 @DotNetOpenAuth\OAuth:
 @DotNetOpenAuth\OAuth\ChannelElements:
+@DotNetOpenAuth\OAuth\ServiceProviderOpenIdProvider:
+@DotNetOpenAuth\OAuth\WebConsumerOpenIdRelyingParty:

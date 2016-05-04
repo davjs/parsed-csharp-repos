@@ -1,4 +1,4 @@
-b5cc4ddf3801cf9d2d7437104672db24d4459017
+0656174a39d962ae2c23bcccb07a09b708c06f8d
 @MonoGame:
 @MonoGame\Tests:
 @MonoGame\Tests\AggregateTestFilter:
@@ -152,8 +152,6 @@ MonoGame\Tests\Vector3Comparer
 MonoGame\Tests\Vector4Comparer
 @MonoGame\Tests\Framework\VertexTests:
 @MonoGame\Tests\GameTest:
-MonoGame\Tests\Paths
-MonoGame\Tests\TestGameBase
 @MonoGame\Tests\GameTest\Behaviors:
 @MonoGame\Tests\GameTest\Disposal:
 @MonoGame\Tests\GameTest\FixtureBase:

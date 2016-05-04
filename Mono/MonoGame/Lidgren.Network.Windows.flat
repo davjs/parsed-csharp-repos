@@ -1,4 +1,4 @@
-9c25b58e63c2c94cf1eeb8a7759c3efcba9b58ad
+ce79b2f76f0f11a5b7ddcca5aea1224b3a8e2f3e
 @Lidgren:
 @Lidgren\Network:
 @Lidgren\Network\CryptoRandom:
@@ -25,8 +25,6 @@ Lidgren\Network\NetIncomingMessage
 Lidgren\Network\NetOutgoingMessage
 Lidgren\Network\NetPeer
 @Lidgren\Network\NetBuffer:
-Lidgren\Network\NetBitWriter
-Lidgren\Network\NetConnection
 Lidgren\Network\NetException
 Lidgren\Network\NetUtility
 @Lidgren\Network\NetClient:
@@ -35,13 +33,7 @@ Lidgren\Network\NetOutgoingMessage
 Lidgren\Network\NetPeer
 Lidgren\Network\NetPeerConfiguration
 @Lidgren\Network\NetConnection:
-Lidgren\Network\MWCRandom
-Lidgren\Network\NetException
-Lidgren\Network\NetIncomingMessage
 Lidgren\Network\NetOutgoingMessage
-Lidgren\Network\NetReliableSenderChannel
-Lidgren\Network\NetSenderChannelBase
-Lidgren\Network\NetTime
 @Lidgren\Network\NetConnectionStatistics:
 Lidgren\Network\NetConnection
 Lidgren\Network\NetException
@@ -80,8 +72,6 @@ Lidgren\Network\NetException
 Lidgren\Network\NetFragmentationHelper
 Lidgren\Network\NetUtility
 @Lidgren\Network\NetPeer:
-Lidgren\Network\MWCRandom
-Lidgren\Network\NetTime
 @Lidgren\Network\NetPeer\DelayedPacket:
 @Lidgren\Network\NetPeerConfiguration:
 Lidgren\Network\NetException

@@ -1,4 +1,12 @@
-63742db014e62751828107f371de2ca06881120a
+4dab518b0d247a182c48a555afe8fe5faea8bc6c
 @DotNetOpenAuth:
 @DotNetOpenAuth\OpenId:
 @DotNetOpenAuth\OpenId\Provider:
+@DotNetOpenAuth\OpenId\Provider\AnonymousRequestEventArgs:
+@DotNetOpenAuth\OpenId\Provider\AuthenticationChallengeEventArgs:
+@DotNetOpenAuth\OpenId\Provider\IdentityEndpoint:
+DotNetOpenAuth\OpenId\Provider\IdentityEndpointNormalizationEventArgs
+@DotNetOpenAuth\OpenId\Provider\IdentityEndpointNormalizationEventArgs:
+@DotNetOpenAuth\OpenId\Provider\ProviderEndpoint:
+DotNetOpenAuth\OpenId\Provider\AnonymousRequestEventArgs
+DotNetOpenAuth\OpenId\Provider\AuthenticationChallengeEventArgs

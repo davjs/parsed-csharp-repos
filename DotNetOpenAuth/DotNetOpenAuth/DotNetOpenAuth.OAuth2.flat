@@ -1,6 +1,7 @@
-5cd393fd7138c3300742ad277f4c2d2168a58c2d
+2c5357e6dd8f14a96c119ee0e697cfb1a858e197
 @DotNetOpenAuth:
 @DotNetOpenAuth\Configuration:
+@DotNetOpenAuth\Configuration\OAuth2SectionGroup:
 @DotNetOpenAuth\OAuth2:
 @DotNetOpenAuth\OAuth2\AccessToken:
 DotNetOpenAuth\OAuth2\ChannelElements\AuthorizationDataBag

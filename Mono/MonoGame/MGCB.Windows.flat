@@ -1,7 +1,8 @@
-afbb8a1c6ba597e2b54c5ed4a7adfe4114754bbf
+d2ff96d9968d9e3d1e6ae4a943b6e76b06c8c63c
 @MGCB:
 @MGCB\BuildContent:
 MGCB\SourceFileCollection
+MonoGame\Framework\Content\Pipeline\Builder\ConsoleLogger
 @MGCB\BuildContent\ContentItem:
 @MGCB\CommandLineParameterAttribute:
 @MGCB\MGBuildParser:
@@ -17,3 +18,4 @@ MGCB\MGBuildParser
 @MonoGame\Framework\Content:
 @MonoGame\Framework\Content\Pipeline:
 @MonoGame\Framework\Content\Pipeline\Builder:
+@MonoGame\Framework\Content\Pipeline\Builder\ConsoleLogger:
