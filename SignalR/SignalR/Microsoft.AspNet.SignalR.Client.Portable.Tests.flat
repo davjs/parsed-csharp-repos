@@ -1,0 +1,9 @@
+a88aa59dba2e5443a5b89f1502cced2c9ab56469
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\Client:
+@Microsoft\AspNet\SignalR\Client\Infrastructure:
+@Microsoft\AspNet\SignalR\Client\Infrastructure\TaskQueueFacts:
+@Microsoft\AspNet\SignalR\Client\Infrastructure\TaskQueueMonitorFacts:
+@Microsoft\AspNet\SignalR\Client\Infrastructure\UrlBuilderFacts:

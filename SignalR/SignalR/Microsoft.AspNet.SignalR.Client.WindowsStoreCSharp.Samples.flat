@@ -1,0 +1,15 @@
+fea9cbe8f0b3a18dc4b65f979e78deaac4fae5cf
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\Client:
+@Microsoft\AspNet\SignalR\Client\Samples:
+@Microsoft\AspNet\SignalR\Client\Samples\CommonClient:
+@Microsoft\AspNet\SignalR\Client\Samples\TextBoxWriter:
+@Microsoft\AspNet\SignalR\Client\WindowsStoreCSharp:
+@Microsoft\AspNet\SignalR\Client\WindowsStoreCSharp\Samples:
+@Microsoft\AspNet\SignalR\Client\WindowsStoreCSharp\Samples\App:
+Microsoft\AspNet\SignalR\Client\WindowsStoreCSharp\Samples\MainPage
+@Microsoft\AspNet\SignalR\Client\WindowsStoreCSharp\Samples\MainPage:
+Microsoft\AspNet\SignalR\Client\Samples\CommonClient
+Microsoft\AspNet\SignalR\Client\Samples\TextBoxWriter

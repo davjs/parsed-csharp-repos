@@ -1,0 +1,9 @@
+8ffc0328171356fa279d122f9aa58232a3ed4e4a
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\RequestExtensions:
+@System:
+@System\Web:
+@System\Web\Routing:
+@System\Web\Routing\SignalRRouteExtensions:

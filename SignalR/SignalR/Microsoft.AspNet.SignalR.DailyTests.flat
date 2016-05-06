@@ -1,0 +1,13 @@
+91bfd3b12a2796c6e35c0b5f8017243c1990f480
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\FunctionalTests:
+@Microsoft\AspNet\SignalR\FunctionalTests\NuGet:
+@Microsoft\AspNet\SignalR\FunctionalTests\NuGet\CommonNuGet:
+@Microsoft\AspNet\SignalR\FunctionalTests\NuGet\OwinFacts:
+Microsoft\AspNet\SignalR\FunctionalTests\NuGet\CommonNuGet
+@Microsoft\AspNet\SignalR\FunctionalTests\NuGet\SignalRFacts:
+Microsoft\AspNet\SignalR\FunctionalTests\NuGet\CommonNuGet
+@Microsoft\AspNet\SignalR\FunctionalTests\NuGet\SignalRLocFacts:
+Microsoft\AspNet\SignalR\FunctionalTests\NuGet\CommonNuGet

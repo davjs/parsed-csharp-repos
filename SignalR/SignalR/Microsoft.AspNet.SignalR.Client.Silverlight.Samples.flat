@@ -1,0 +1,15 @@
+13d4e2fc59793f8978638ae9e42ed44ec29682c2
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\Client:
+@Microsoft\AspNet\SignalR\Client\Samples:
+@Microsoft\AspNet\SignalR\Client\Samples\CommonClient:
+@Microsoft\AspNet\SignalR\Client\Silverlight:
+@Microsoft\AspNet\SignalR\Client\Silverlight\Samples:
+@Microsoft\AspNet\SignalR\Client\Silverlight\Samples\App:
+Microsoft\AspNet\SignalR\Client\Silverlight\Samples\MainPage
+@Microsoft\AspNet\SignalR\Client\Silverlight\Samples\MainPage:
+Microsoft\AspNet\SignalR\Client\Samples\CommonClient
+Microsoft\AspNet\SignalR\Client\Silverlight\Samples\TextBoxWriter
+@Microsoft\AspNet\SignalR\Client\Silverlight\Samples\TextBoxWriter:

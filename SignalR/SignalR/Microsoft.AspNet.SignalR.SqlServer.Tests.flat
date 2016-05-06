@@ -1,0 +1,11 @@
+b574da5d2a9decbabcc3e637294a306430602197
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\SqlServer:
+@Microsoft\AspNet\SignalR\SqlServer\Tests:
+@Microsoft\AspNet\SignalR\SqlServer\Tests\SqlScaleoutConfigurationFacts:
+@Microsoft\AspNet\SignalR\Tests:
+@Microsoft\AspNet\SignalR\Tests\SqlServer:
+@Microsoft\AspNet\SignalR\Tests\SqlServer\ObservableSqlOperationFacts:
+@Microsoft\AspNet\SignalR\Tests\SqlServer\ObservableSqlOperationFacts\MockDbProviderFactory:

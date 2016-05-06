@@ -1,0 +1,7 @@
+0da52258f05a77d3d5b09ac3644738f1a73af143
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\Redis:
+@Microsoft\AspNet\SignalR\Redis\Tests:
+@Microsoft\AspNet\SignalR\Redis\Tests\RedisMessageBusFacts:

@@ -1,0 +1,17 @@
+9c97182602fac7e76064adc3226b255ded9b5cc7
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\Samples:
+@Microsoft\AspNet\SignalR\Samples\RawConnection:
+@Microsoft\AspNet\SignalR\Samples\RawConnection\Message:
+@Microsoft\AspNet\SignalR\StressServer:
+@Microsoft\AspNet\SignalR\StressServer\Connections:
+@Microsoft\AspNet\SignalR\StressServer\Connections\StressConnection:
+@Microsoft\AspNet\SignalR\StressServer\Hubs:
+@Microsoft\AspNet\SignalR\StressServer\Hubs\ConcurrentCallsHub:
+Microsoft\AspNet\SignalR\StressServer\Hubs\DataClass
+@Microsoft\AspNet\SignalR\StressServer\Hubs\DataClass:
+@Microsoft\AspNet\SignalR\StressServer\Hubs\HubWithGroups:
+@Microsoft\AspNet\SignalR\StressServer\Hubs\OnConnectedOnDisconnectedHub:
+@Microsoft\AspNet\SignalR\StressServer\Hubs\SimpleEchoHub:

@@ -1,0 +1,10 @@
+c998a1f352a2d8960c7fc7f573026a7b3539a3b7
+@Microsoft:
+@Microsoft\AspNet:
+@Microsoft\AspNet\SignalR:
+@Microsoft\AspNet\SignalR\Client:
+@Microsoft\AspNet\SignalR\Client\Store:
+@Microsoft\AspNet\SignalR\Client\Store\TestHost:
+@Microsoft\AspNet\SignalR\Client\Store\TestHost\Program:
+@Microsoft\AspNet\SignalR\Client\Store\TestHost\Startup:
+@Microsoft\AspNet\SignalR\Client\Store\TestHost\StoreWebSocketTestHub:
