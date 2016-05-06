@@ -1,0 +1,8 @@
+6648bdd64550cc38d05e4272927909ebec39223d
+@FluentMigrator:
+@FluentMigrator\SchemaDump:
+@FluentMigrator\SchemaDump\SchemaDumpers:
+@FluentMigrator\SchemaDump\SchemaDumpers\SQLiteSchemaDumper:
+@FluentMigrator\SchemaDump\SchemaDumpers\SqlServerSchemaDumper:
+@FluentMigrator\SchemaDump\SchemaWriters:
+@FluentMigrator\SchemaDump\SchemaWriters\SchemaWriterBase:
