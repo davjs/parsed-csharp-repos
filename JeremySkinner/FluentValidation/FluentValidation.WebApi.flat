@@ -1,0 +1,13 @@
+465d9512db4f48c12cb55a2457775d9ab2f083df
+@FluentValidation:
+@FluentValidation\WebApi:
+@FluentValidation\WebApi\FluentValidationBodyModelValidator:
+FluentValidation\WebApi\FluentValidationModelValidator
+@FluentValidation\WebApi\FluentValidationBodyModelValidator\ElementScope:
+@FluentValidation\WebApi\FluentValidationBodyModelValidator\PropertyScope:
+@FluentValidation\WebApi\FluentValidationBodyModelValidator\ValidationContext:
+@FluentValidation\WebApi\FluentValidationModelValidator:
+@FluentValidation\WebApi\FluentValidationModelValidatorProvider:
+FluentValidation\WebApi\FluentValidationBodyModelValidator
+FluentValidation\WebApi\FluentValidationModelValidator
+@FluentValidation\WebApi\ValidationResultExtension:
