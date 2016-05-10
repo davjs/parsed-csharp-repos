@@ -1,4 +1,4 @@
-5109eea3d308a6d818f007232149fa33214d5c20
+efa7e814f4234842d7dabd1809ec77d7157f2e0d
 @Shadowsocks:
 @Shadowsocks\Controller:
 @Shadowsocks\Controller\AutoStartup:
@@ -213,10 +213,21 @@ ZXing\ResultPoint
 @Shadowsocks\View\PerPixelAlphaForm:
 Shadowsocks\View\Win32
 @Shadowsocks\View\QRCodeForm:
+Shadowsocks\Controller\I18N
+Shadowsocks\Controller\ShadowsocksController
+Shadowsocks\Model\Configuration
+Shadowsocks\Properties\Resources
+ZXing\QrCode\Internal\ByteMatrix
+ZXing\QrCode\Internal\Encoder
+ZXing\QrCode\Internal\ErrorCorrectionLevel
+ZXing\QrCode\Internal\QRCode
 @Shadowsocks\View\QRCodeSplashForm:
 Shadowsocks\View\PerPixelAlphaForm
 @Shadowsocks\View\StatisticsStrategyConfigurationForm:
+Shadowsocks\Controller\ShadowsocksController
+Shadowsocks\Model\StatisticsRecord
 Shadowsocks\Model\StatisticsStrategyConfiguration
+Shadowsocks\View\CalculationControl
 @Shadowsocks\View\Win32:
 @ZXing:
 @ZXing\BaseLuminanceSource:

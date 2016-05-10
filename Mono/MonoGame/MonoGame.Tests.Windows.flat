@@ -1,4 +1,4 @@
-0656174a39d962ae2c23bcccb07a09b708c06f8d
+a27a06980ac81337d7f8bc68121bb9207198f9c7
 @MonoGame:
 @MonoGame\Tests:
 @MonoGame\Tests\AggregateTestFilter:
@@ -110,6 +110,8 @@ MonoGame\Tests\ServiceNotFoundException
 @MonoGame\Tests\FrameInfoEventArgs:
 @MonoGame\Tests\FramePixelData:
 @MonoGame\Tests\Framework:
+@MonoGame\Tests\Framework\Audio:
+@MonoGame\Tests\Framework\Audio\SoundEffectTests:
 @MonoGame\Tests\Framework\Bounding:
 MonoGame\Tests\BoundingSphereComparer
 @MonoGame\Tests\Framework\ColorTest:
@@ -139,6 +141,7 @@ MonoGame\Tests\TestGameBase
 MonoGame\Tests\Vector2Comparer
 @MonoGame\Tests\Framework\Texture2DNonVisualTest:
 MonoGame\Tests\TestGameBase
+@MonoGame\Tests\Framework\TitleContainerTest:
 @MonoGame\Tests\Framework\TouchCollectionTest:
 @MonoGame\Tests\Framework\TouchLocationTest:
 @MonoGame\Tests\Framework\TouchPanelTest:
@@ -178,6 +181,7 @@ MonoGame\Tests\Vector4Comparer
 @MonoGame\Tests\GameTest\SlowUpdater:
 @MonoGame\Tests\MathUtility:
 @MonoGame\Tests\MatrixComparer:
+@MonoGame\Tests\MouseTest:
 @MonoGame\Tests\Paths:
 @MonoGame\Tests\PlaneComparer:
 @MonoGame\Tests\Program:
@@ -207,6 +211,8 @@ MonoGame\Tests\Components\Simple3DCubeComponent
 MonoGame\Tests\Visual\VisualTestFixtureBase
 @MonoGame\Tests\Visual\EffectTest:
 MonoGame\Tests\Visual\VisualTestFixtureBase
+@MonoGame\Tests\Visual\GraphicsDeviceManagerTest:
+MonoGame\Tests\TestGameBase
 @MonoGame\Tests\Visual\GraphicsDeviceTest:
 MonoGame\Tests\ContentPipeline\AssetTestUtility
 MonoGame\Tests\Visual\VisualTestFixtureBase
@@ -223,6 +229,11 @@ MonoGame\Tests\Paths
 MonoGame\Tests\Visual\VisualTestFixtureBase
 @MonoGame\Tests\Visual\RasterizerStateTest:
 MonoGame\Tests\Components\Colored3DCubeComponent
+MonoGame\Tests\Visual\VisualTestFixtureBase
+@MonoGame\Tests\Visual\RenderTarget2DTest:
+MonoGame\Tests\Paths
+MonoGame\Tests\Visual\VisualTestFixtureBase
+@MonoGame\Tests\Visual\RenderTargetCubeTest:
 MonoGame\Tests\Visual\VisualTestFixtureBase
 @MonoGame\Tests\Visual\SamplerStateTest:
 MonoGame\Tests\ContentPipeline\AssetTestUtility

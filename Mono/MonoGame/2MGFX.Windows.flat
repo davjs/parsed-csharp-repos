@@ -1,4 +1,4 @@
-1f78ab8a56451c834c0f118e801e8bf043f844ca
+1feb5706d24c5b13eb363d3cf7b031db13efd3d1
 @Microsoft:
 @Microsoft\Xna:
 @Microsoft\Xna\Framework:
@@ -41,10 +41,7 @@ Microsoft\Xna\Framework\Graphics\BlendState
 @TwoMGFX\ConstantBufferData:
 TwoMGFX\EffectObject
 @TwoMGFX\EffectObject:
-MonoGame\Utilities\Hash
-TwoMGFX\ConstantBufferData
-TwoMGFX\Options
-TwoMGFX\ShaderData
+TwoMGFX\ShaderInfo
 @TwoMGFX\EffectObject\d3dx_parameter:
 @TwoMGFX\EffectObject\d3dx_pass:
 @TwoMGFX\EffectObject\d3dx_sampler:
@@ -81,6 +78,7 @@ TwoMGFX\ParseErrors
 TwoMGFX\ParseNode
 TwoMGFX\Token
 @TwoMGFX\ParseTreeTools:
+TwoMGFX\ParseNode
 @TwoMGFX\PassInfo:
 Microsoft\Xna\Framework\Graphics\BlendState
 Microsoft\Xna\Framework\Graphics\DepthStencilState
@@ -104,13 +102,13 @@ TwoMGFX\Token
 @TwoMGFX\ShaderCompilerException:
 @TwoMGFX\ShaderData:
 TwoMGFX\ConstantBufferData
-TwoMGFX\MojoShader
 TwoMGFX\SamplerStateInfo
 @TwoMGFX\ShaderInfo:
 TwoMGFX\Options
 TwoMGFX\ParseError
 TwoMGFX\Parser
 TwoMGFX\ParseTree
+TwoMGFX\ParseTreeTools
 TwoMGFX\Preprocessor
 TwoMGFX\SamplerStateInfo
 TwoMGFX\Scanner
