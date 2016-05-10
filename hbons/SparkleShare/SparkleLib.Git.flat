@@ -1,0 +1,13 @@
+a4c005ffccd776fc0c26dcd007f4fb0406ea2744
+@SparkleLib:
+@SparkleLib\Git:
+@SparkleLib\Git\SparkleFetcher:
+SparkleLib\Git\SparkleGit
+@SparkleLib\Git\SparkleGit:
+SparkleLib\Git\SparkleProcess
+@SparkleLib\Git\SparkleGitBin:
+SparkleLib\Git\SparkleProcess
+@SparkleLib\Git\SparkleProcess:
+@SparkleLib\Git\SparkleRepo:
+SparkleLib\Git\SparkleGit
+SparkleLib\Git\SparkleGitBin
