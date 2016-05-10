@@ -1,0 +1,9 @@
+9ccd94e1e482e4fe44d44e2d1fbf9fcd434a8cd5
+@Wox:
+@Wox\Plugin:
+@Wox\Plugin\PluginManagement:
+@Wox\Plugin\PluginManagement\HttpRequest:
+@Wox\Plugin\PluginManagement\Main:
+Wox\Plugin\PluginManagement\HttpRequest
+Wox\Plugin\PluginManagement\WoxPluginResult
+@Wox\Plugin\PluginManagement\WoxPluginResult:

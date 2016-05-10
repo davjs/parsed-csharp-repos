@@ -1,0 +1,14 @@
+0c56557b9c0d03a25d6f83e508a409ef8b5c2719
+@Wox:
+@Wox\Plugin:
+@Wox\Plugin\Folder:
+@Wox\Plugin\Folder\FileSystemSettings:
+Wox\Plugin\Folder\FolderLink
+Wox\Plugin\Folder\Settings
+@Wox\Plugin\Folder\FolderLink:
+@Wox\Plugin\Folder\Main:
+Wox\Plugin\Folder\FileSystemSettings
+Wox\Plugin\Folder\FolderLink
+Wox\Plugin\Folder\Settings
+@Wox\Plugin\Folder\Settings:
+Wox\Plugin\Folder\FolderLink

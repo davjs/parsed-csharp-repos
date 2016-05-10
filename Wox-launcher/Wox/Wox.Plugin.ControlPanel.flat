@@ -1,0 +1,10 @@
+5a0f06415b7a1c49a0363e0713745f02de2bdfcc
+@Wox:
+@Wox\Plugin:
+@Wox\Plugin\ControlPanel:
+@Wox\Plugin\ControlPanel\ControlPanelItem:
+@Wox\Plugin\ControlPanel\ControlPanelList:
+Wox\Plugin\ControlPanel\ControlPanelItem
+@Wox\Plugin\ControlPanel\Main:
+Wox\Plugin\ControlPanel\ControlPanelItem
+Wox\Plugin\ControlPanel\ControlPanelList

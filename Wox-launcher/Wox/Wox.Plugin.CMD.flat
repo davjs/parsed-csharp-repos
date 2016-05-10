@@ -1,0 +1,10 @@
+9e1d05562f343120a4725dc8f87e2a7e9c0ff2b5
+@Wox:
+@Wox\Plugin:
+@Wox\Plugin\CMD:
+@Wox\Plugin\CMD\CMD:
+Wox\Plugin\CMD\CMDHistory
+Wox\Plugin\CMD\CMDSetting
+@Wox\Plugin\CMD\CMDHistory:
+@Wox\Plugin\CMD\CMDSetting:
+Wox\Plugin\CMD\CMDHistory
