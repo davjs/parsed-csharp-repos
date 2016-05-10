@@ -1,0 +1,10 @@
+a52f98b14efe10dac12825d8fc89b22bd7a6cf1c
+@Nancy:
+@Nancy\Authentication:
+@Nancy\Authentication\Basic:
+@Nancy\Authentication\Basic\BasicAuthentication:
+Nancy\Authentication\Basic\BasicAuthenticationConfiguration
+@Nancy\Authentication\Basic\BasicAuthenticationConfiguration:
+@Nancy\Authentication\Basic\BasicHttpExtensions:
+Nancy\Authentication\Basic\BasicAuthentication
+Nancy\Authentication\Basic\BasicAuthenticationConfiguration

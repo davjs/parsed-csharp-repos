@@ -1,0 +1,12 @@
+337981fe8a5a77275d7122a2eeb9cdab5fa59730
+@Nancy:
+@Nancy\Demo:
+@Nancy\Demo\Authentication:
+@Nancy\Demo\Authentication\AnotherVerySecureModule:
+Nancy\Demo\Authentication\Models\UserModel
+@Nancy\Demo\Authentication\AuthenticationBootstrapper:
+@Nancy\Demo\Authentication\MainModule:
+@Nancy\Demo\Authentication\Models:
+@Nancy\Demo\Authentication\Models\UserModel:
+@Nancy\Demo\Authentication\SecureModule:
+Nancy\Demo\Authentication\Models\UserModel

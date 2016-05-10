@@ -1,0 +1,8 @@
+232cda1415b8cb7d3e27ca8888917b55aa47d356
+@Microsoft:
+@Microsoft\EntityFrameworkCore:
+@Microsoft\EntityFrameworkCore\SqlServer:
+@Microsoft\EntityFrameworkCore\SqlServer\Design:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\SqlServerTableSelectionSetExtensionsTests:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\Tests:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\Tests\ApiConsistencyTest:

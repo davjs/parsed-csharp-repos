@@ -1,0 +1,7 @@
+411ad8dc4bcef38172a2e1bb7888fd407f426f6a
+@Nancy:
+@Nancy\Authentication:
+@Nancy\Authentication\Stateless:
+@Nancy\Authentication\Stateless\StatelessAuthentication:
+Nancy\Authentication\Stateless\StatelessAuthenticationConfiguration
+@Nancy\Authentication\Stateless\StatelessAuthenticationConfiguration:

@@ -1,0 +1,17 @@
+98883246b18cc640ff16676fe89bdbd676cbd389
+@Nancy:
+@Nancy\AspNetBootstrapperDemo:
+@Nancy\AspNetBootstrapperDemo\ApplicationDependencyClass:
+@Nancy\AspNetBootstrapperDemo\Bootstrapper:
+Nancy\AspNetBootstrapperDemo\ApplicationDependencyClass
+Nancy\Demo\Bootstrapping\Aspnet\RequestDependencyClass
+@Nancy\Demo:
+@Nancy\Demo\Bootstrapping:
+@Nancy\Demo\Bootstrapping\Aspnet:
+@Nancy\Demo\Bootstrapping\Aspnet\DependencyModule:
+Nancy\Demo\Bootstrapping\Aspnet\Models\RatPackWithDependencyText
+@Nancy\Demo\Bootstrapping\Aspnet\Models:
+@Nancy\Demo\Bootstrapping\Aspnet\Models\RatPack:
+@Nancy\Demo\Bootstrapping\Aspnet\Models\RatPackWithDependencyText:
+Nancy\Demo\Bootstrapping\Aspnet\Models\RatPack
+@Nancy\Demo\Bootstrapping\Aspnet\RequestDependencyClass:

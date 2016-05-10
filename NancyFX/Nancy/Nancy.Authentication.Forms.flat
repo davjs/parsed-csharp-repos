@@ -1,0 +1,9 @@
+ada222ed3f93be9598daa381b1bcd093579ea663
+@Nancy:
+@Nancy\Authentication:
+@Nancy\Authentication\Forms:
+@Nancy\Authentication\Forms\FormsAuthentication:
+Nancy\Authentication\Forms\FormsAuthenticationConfiguration
+@Nancy\Authentication\Forms\FormsAuthenticationConfiguration:
+@Nancy\Authentication\Forms\ModuleExtensions:
+Nancy\Authentication\Forms\FormsAuthentication

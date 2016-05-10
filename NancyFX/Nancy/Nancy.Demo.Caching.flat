@@ -1,0 +1,11 @@
+8d9b55f93cf2edbba2a288f894bbc7d1105a675b
+@Nancy:
+@Nancy\Demo:
+@Nancy\Demo\Caching:
+@Nancy\Demo\Caching\CachedResponse:
+@Nancy\Demo\Caching\CachingBootstrapper:
+Nancy\Demo\Caching\CachedResponse
+Nancy\Demo\Caching\CachingExtensions\ContextExtensions
+@Nancy\Demo\Caching\CachingExtensions:
+@Nancy\Demo\Caching\CachingExtensions\ContextExtensions:
+@Nancy\Demo\Caching\MainModule:

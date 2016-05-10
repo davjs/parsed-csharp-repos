@@ -1,0 +1,16 @@
+0f35650e0b72a9ee5dc05ada2f3dee965a7ec3de
+@Nancy:
+@Nancy\Demo:
+@Nancy\Demo\Authentication:
+@Nancy\Demo\Authentication\Forms:
+@Nancy\Demo\Authentication\Forms\FormsAuthBootstrapper:
+Nancy\Demo\Authentication\Forms\UserDatabase
+@Nancy\Demo\Authentication\Forms\MainModule:
+Nancy\Demo\Authentication\Forms\UserDatabase
+@Nancy\Demo\Authentication\Forms\Models:
+@Nancy\Demo\Authentication\Forms\Models\UserModel:
+@Nancy\Demo\Authentication\Forms\PartlySecureModule:
+Nancy\Demo\Authentication\Forms\Models\UserModel
+@Nancy\Demo\Authentication\Forms\SecureModule:
+Nancy\Demo\Authentication\Forms\Models\UserModel
+@Nancy\Demo\Authentication\Forms\UserDatabase:

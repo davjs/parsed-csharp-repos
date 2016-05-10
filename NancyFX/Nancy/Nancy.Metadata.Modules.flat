@@ -1,0 +1,13 @@
+add4d4fcecc62db4d02afb71c0f0785d982c8bce
+@Nancy:
+@Nancy\Metadata:
+@Nancy\Metadata\Modules:
+@Nancy\Metadata\Modules\DefaultMetadataModuleConventions:
+@Nancy\Metadata\Modules\DefaultMetadataModuleResolver:
+Nancy\Metadata\Modules\DefaultMetadataModuleConventions
+@Nancy\Metadata\Modules\MetadataModule<TMetadata>:
+@Nancy\Metadata\Modules\MetadataModule<TMetadata>\RouteMetadataBuilder:
+@Nancy\Metadata\Modules\MetadataModuleRegistrations:
+Nancy\Metadata\Modules\DefaultMetadataModuleConventions
+Nancy\Metadata\Modules\DefaultMetadataModuleResolver
+@Nancy\Metadata\Modules\MetadataModuleRouteMetadataProvider:

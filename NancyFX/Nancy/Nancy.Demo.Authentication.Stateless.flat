@@ -1,0 +1,16 @@
+3ace84cd20d4f641d6a225012aa8d3853a7cb8f9
+@Nancy:
+@Nancy\Demo:
+@Nancy\Demo\Authentication:
+@Nancy\Demo\Authentication\Stateless:
+@Nancy\Demo\Authentication\Stateless\AuthModule:
+Nancy\Demo\Authentication\Stateless\UserDatabase
+@Nancy\Demo\Authentication\Stateless\Models:
+@Nancy\Demo\Authentication\Stateless\Models\UserModel:
+@Nancy\Demo\Authentication\Stateless\RootModule:
+@Nancy\Demo\Authentication\Stateless\SecureModule:
+Nancy\Demo\Authentication\Stateless\Models\UserModel
+Nancy\Demo\Authentication\Stateless\UserDatabase
+@Nancy\Demo\Authentication\Stateless\StatelessAuthBootstrapper:
+Nancy\Demo\Authentication\Stateless\UserDatabase
+@Nancy\Demo\Authentication\Stateless\UserDatabase:

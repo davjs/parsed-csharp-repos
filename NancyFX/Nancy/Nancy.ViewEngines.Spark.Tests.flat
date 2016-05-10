@@ -1,0 +1,13 @@
+2bf71bbeb54cf665c287b76ede99e8eb122d2111
+@Nancy:
+@Nancy\Tests:
+@Nancy\Tests\ShouldAssertExtensions:
+@Nancy\ViewEngines:
+@Nancy\ViewEngines\Spark:
+@Nancy\ViewEngines\Spark\Tests:
+@Nancy\ViewEngines\Spark\Tests\NancyViewFolderFixture:
+@Nancy\ViewEngines\Spark\Tests\SparkViewEngineFixture:
+Nancy\ViewEngines\Spark\Tests\ViewModels\FakeViewModel
+@Nancy\ViewEngines\Spark\Tests\SparkViewEngineFixture\ScopedCulture:
+@Nancy\ViewEngines\Spark\Tests\ViewModels:
+@Nancy\ViewEngines\Spark\Tests\ViewModels\FakeViewModel:

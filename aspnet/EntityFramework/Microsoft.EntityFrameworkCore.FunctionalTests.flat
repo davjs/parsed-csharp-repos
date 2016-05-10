@@ -1,0 +1,16 @@
+f668c256c81a92c91039051de63598378ec512ee
+@Microsoft:
+@Microsoft\EntityFrameworkCore:
+@Microsoft\EntityFrameworkCore\Specification:
+@Microsoft\EntityFrameworkCore\Specification\Tests:
+@Microsoft\EntityFrameworkCore\Specification\Tests\DatabaseErrorLogStateTest:
+@Microsoft\EntityFrameworkCore\Specification\Tests\DatabaseErrorLogStateTest\BloggingContext:
+@Microsoft\EntityFrameworkCore\Specification\Tests\DatabaseErrorLogStateTest\BloggingContext\Blog:
+@Microsoft\EntityFrameworkCore\Specification\Tests\DatabaseErrorLogStateTest\TestLoggerFactory:
+@Microsoft\EntityFrameworkCore\Specification\Tests\DatabaseErrorLogStateTest\TestLoggerFactory\TestLogger:
+@Microsoft\EntityFrameworkCore\Specification\Tests\ModelSourceTest:
+@Microsoft\EntityFrameworkCore\Specification\Tests\ModelSourceTest\Base:
+@Microsoft\EntityFrameworkCore\Specification\Tests\ModelSourceTest\JustSomeContext:
+@Microsoft\EntityFrameworkCore\Specification\Tests\ModelSourceTest\MyModelCustomizer:
+@Microsoft\EntityFrameworkCore\Specification\Tests\ModelSourceTest\MyModelSource:
+@Microsoft\EntityFrameworkCore\Specification\Tests\ModelSourceTest\Peak:

@@ -1,0 +1,12 @@
+354bdafea7a0ad86e997b6b3714564f5768c9735
+@Nancy:
+@Nancy\Tests:
+@Nancy\Tests\ShouldAssertExtensions:
+@Nancy\ViewEngines:
+@Nancy\ViewEngines\Razor:
+@Nancy\ViewEngines\Razor\Tests:
+@Nancy\ViewEngines\Razor\Tests\GreetingViewBase:
+@Nancy\ViewEngines\Razor\Tests\RazorViewEngineFixture:
+Nancy\ViewEngines\Razor\Tests\TestModel
+@Nancy\ViewEngines\Razor\Tests\TestModel:
+@Nancy\ViewEngines\Razor\Tests\TextResourceFinderFixture:

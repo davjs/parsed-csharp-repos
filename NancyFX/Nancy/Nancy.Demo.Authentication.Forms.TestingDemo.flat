@@ -1,0 +1,13 @@
+a434adfcde37ec847b32471823bc838cac374461
+@Nancy:
+@Nancy\Demo:
+@Nancy\Demo\Authentication:
+@Nancy\Demo\Authentication\Forms:
+@Nancy\Demo\Authentication\Forms\TestingDemo:
+@Nancy\Demo\Authentication\Forms\TestingDemo\LoginFixture:
+Nancy\Demo\Authentication\Forms\TestingDemo\TestBootstrapper
+@Nancy\Demo\Authentication\Forms\TestingDemo\TestBootstrapper:
+Nancy\Demo\Authentication\Forms\TestingDemo\TestRootPathProvider
+@Nancy\Demo\Authentication\Forms\TestingDemo\TestRootPathProvider:
+@Nancy\Tests:
+@Nancy\Tests\ShouldAssertExtensions:

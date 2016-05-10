@@ -1,0 +1,16 @@
+8ec42df58f97e34fd9e87859758a8043e3e8dac5
+@Nancy:
+@Nancy\Hosting:
+@Nancy\Hosting\Self:
+@Nancy\Hosting\Self\Tests:
+@Nancy\Hosting\Self\Tests\IsCaseInstensitiveBaseOfFixture:
+@Nancy\Hosting\Self\Tests\MakeAppLocalPathFixture:
+@Nancy\Hosting\Self\Tests\NancySelfHostFixture:
+Nancy\Tests\xUnitExtensions\SkipException
+@Nancy\Hosting\Self\Tests\NancySelfHostFixture\NancyHostWrapper:
+@Nancy\Hosting\Self\Tests\TestModule:
+@Nancy\Tests:
+@Nancy\Tests\ShouldAssertExtensions:
+@Nancy\Tests\xUnitExtensions:
+@Nancy\Tests\xUnitExtensions\SkipException:
+@Nancy\Tests\xUnitExtensions\SkippableFactAttribute:

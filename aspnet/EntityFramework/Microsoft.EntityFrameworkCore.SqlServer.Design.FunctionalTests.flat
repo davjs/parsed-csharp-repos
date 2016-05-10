@@ -1,0 +1,16 @@
+19d818c32634ab13b56a7943236f52ea01ebb06c
+@Microsoft:
+@Microsoft\EntityFrameworkCore:
+@Microsoft\EntityFrameworkCore\SqlServer:
+@Microsoft\EntityFrameworkCore\SqlServer\Design:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\ReverseEngineering:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\ReverseEngineering\SqlServerE2EFixture:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\ReverseEngineering\SqlServerE2ETests:
+Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\ReverseEngineering\SqlServerE2EFixture
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\SqlServerDatabaseModelFactoryTest:
+Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\SqlServerDatabaseModelFixture
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\SqlServerDatabaseModelFixture:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\SqlServerDatabaseModelFixture\NullScope:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\SqlServerDatabaseModelFixture\TestLogger:
+@Microsoft\EntityFrameworkCore\SqlServer\Design\FunctionalTests\SqlServerDatabaseModelFixture\TestLoggerFactory:

@@ -1,0 +1,13 @@
+9c7c02517f6024e0126e55f25f1516f5312e90d5
+@Nancy:
+@Nancy\Authentication:
+@Nancy\Authentication\Basic:
+@Nancy\Authentication\Basic\Tests:
+@Nancy\Authentication\Basic\Tests\BasicAuthenticationConfigurationFixture:
+@Nancy\Authentication\Basic\Tests\BasicAuthenticationFixture:
+Nancy\Tests\Fakes\FakeRequest
+@Nancy\Authentication\Basic\Tests\BasicAuthenticationFixture\FakeModule:
+@Nancy\Tests:
+@Nancy\Tests\Fakes:
+@Nancy\Tests\Fakes\FakeRequest:
+@Nancy\Tests\ShouldAssertExtensions:

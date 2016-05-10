@@ -1,0 +1,6 @@
+0bd10bbeefcd06699a3b4a68a5e4f1ea4a801d7c
+@Nancy:
+@Nancy\ViewEngines:
+@Nancy\ViewEngines\Razor:
+@Nancy\ViewEngines\Razor\BuildProviders:
+@Nancy\ViewEngines\Razor\BuildProviders\NancyCSharpRazorBuildProvider:

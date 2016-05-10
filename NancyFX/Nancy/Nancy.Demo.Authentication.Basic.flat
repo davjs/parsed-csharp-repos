@@ -1,0 +1,9 @@
+56e015ec2d2a8c8fcc829958afd6a82b6b982b99
+@Nancy:
+@Nancy\Demo:
+@Nancy\Demo\Authentication:
+@Nancy\Demo\Authentication\Basic:
+@Nancy\Demo\Authentication\Basic\AuthenticationBootstrapper:
+@Nancy\Demo\Authentication\Basic\MainModule:
+@Nancy\Demo\Authentication\Basic\SecureModule:
+@Nancy\Demo\Authentication\Basic\UserValidator:

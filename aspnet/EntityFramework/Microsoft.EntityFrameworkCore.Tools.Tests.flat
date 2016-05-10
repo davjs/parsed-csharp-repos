@@ -1,0 +1,11 @@
+946c4d3acc5566c5b6d25703e904fd180c76bb84
+@Microsoft:
+@Microsoft\EntityFrameworkCore:
+@Microsoft\EntityFrameworkCore\Tools:
+@Microsoft\EntityFrameworkCore\Tools\Tests:
+@Microsoft\EntityFrameworkCore\Tools\Tests\ApiConsistencyTest:
+@Microsoft\EntityFrameworkCore\Tools\Tests\Design:
+@Microsoft\EntityFrameworkCore\Tools\Tests\Design\OperationExecutorTest:
+@Microsoft\EntityFrameworkCore\Tools\Tests\Design\OperationExecutorTest\OperationBaseTests:
+@Microsoft\EntityFrameworkCore\Tools\Tests\Design\OperationLogHandlerTest:
+@Microsoft\EntityFrameworkCore\Tools\Tests\Design\OperationResultHandlerTest:

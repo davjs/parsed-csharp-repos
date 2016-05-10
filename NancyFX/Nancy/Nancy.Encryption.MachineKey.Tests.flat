@@ -1,0 +1,9 @@
+8356106af99933fd40cd56578eab641bc6bef6f6
+@Nancy:
+@Nancy\Encryption:
+@Nancy\Encryption\MachineKey:
+@Nancy\Encryption\MachineKey\Tests:
+@Nancy\Encryption\MachineKey\Tests\MachineConfigEncryptionProviderFixture:
+@Nancy\Encryption\MachineKey\Tests\MachineKeyHmacProviderFixture:
+@Nancy\Tests:
+@Nancy\Tests\ShouldAssertExtensions:

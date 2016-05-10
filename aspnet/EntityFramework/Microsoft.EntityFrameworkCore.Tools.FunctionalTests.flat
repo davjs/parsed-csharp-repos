@@ -1,0 +1,15 @@
+f592aa3f2252e08ac1510778d6b9f47beec40b8d
+@Microsoft:
+@Microsoft\EntityFrameworkCore:
+@Microsoft\EntityFrameworkCore\Design:
+@Microsoft\EntityFrameworkCore\Design\Internal:
+@Microsoft\EntityFrameworkCore\Design\Internal\ForwardingProxyTest:
+@Microsoft\EntityFrameworkCore\Tools:
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests:
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests\Design:
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests\Design\OperationExecutorTest:
+Microsoft\EntityFrameworkCore\Tools\FunctionalTests\TestUtilities\AppDomainOperationExecutor
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests\Design\OperationExecutorTest\SimpleProjectTest:
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests\Design\OperationExecutorTest\SimpleProjectTest\SimpleProject:
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests\TestUtilities:
+@Microsoft\EntityFrameworkCore\Tools\FunctionalTests\TestUtilities\AppDomainOperationExecutor:

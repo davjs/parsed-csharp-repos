@@ -1,0 +1,12 @@
+5feb9c7922bf27676d9d37a31f46005d8339bf7a
+@Nancy:
+@Nancy\Tests:
+@Nancy\Tests\ShouldAssertExtensions:
+@Nancy\Validation:
+@Nancy\Validation\FluentValidation:
+@Nancy\Validation\FluentValidation\Tests:
+@Nancy\Validation\FluentValidation\Tests\DefaultFluentAdapterFactoryFixture:
+@Nancy\Validation\FluentValidation\Tests\FluentValidationValidatorFactoryFixture:
+@Nancy\Validation\FluentValidation\Tests\FluentValidationValidatorFactoryFixture\ClassUnderTest:
+@Nancy\Validation\FluentValidation\Tests\FluentValidationValidatorFactoryFixture\ClassUnderTestValidator:
+@Nancy\Validation\FluentValidation\Tests\FluentValidationValidatorFactoryFixture\NeverBeUsedTestValidator:

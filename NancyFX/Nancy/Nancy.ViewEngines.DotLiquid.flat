@@ -1,0 +1,12 @@
+bf3269f213e9fdd4136370ef00bdf9945e2247bb
+@Nancy:
+@Nancy\ViewEngines:
+@Nancy\ViewEngines\DotLiquid:
+@Nancy\ViewEngines\DotLiquid\DefaultFileSystemFactory:
+Nancy\ViewEngines\DotLiquid\LiquidNancyFileSystem
+@Nancy\ViewEngines\DotLiquid\DotLiquidRegistrations:
+@Nancy\ViewEngines\DotLiquid\DotLiquidViewEngine:
+Nancy\ViewEngines\DotLiquid\DefaultFileSystemFactory
+Nancy\ViewEngines\DotLiquid\DynamicDrop
+@Nancy\ViewEngines\DotLiquid\DynamicDrop:
+@Nancy\ViewEngines\DotLiquid\LiquidNancyFileSystem:

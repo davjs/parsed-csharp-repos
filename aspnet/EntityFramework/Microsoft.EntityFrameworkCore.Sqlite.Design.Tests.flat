@@ -1,0 +1,7 @@
+1334c8133906e240aea325546b5534e0ef5c48fc
+@Microsoft:
+@Microsoft\EntityFrameworkCore:
+@Microsoft\EntityFrameworkCore\Sqlite:
+@Microsoft\EntityFrameworkCore\Sqlite\Design:
+@Microsoft\EntityFrameworkCore\Sqlite\Design\ApiConsistencyTest:
+@Microsoft\EntityFrameworkCore\Sqlite\Design\SqliteTableSelectionSetExtensionsTests:
